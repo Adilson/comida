@@ -11,7 +11,6 @@ Principais receitas
 - [Bolo de laranja](/receitas/bolos/bolo-de-laranja.md): bolo de laranja com calda de laranja
 - [Bolo de banana com aveia](/receitas/bolos/bolo-de-banana-e-aveia.md): bolo de bana com aveia misturada na massa
 
-
 ------
 
 Clique no link abaixo para ver todas as receitas organizadas em pastas
